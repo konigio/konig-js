@@ -1,0 +1,34 @@
+{
+  "name": "konig-js",
+  "version": "1.0.0",
+  "description": "Konig Javascript Libraries and web applications",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "jsdoc-webpack-plugin": "0.0.1",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0",
+    "webpack": "^1.13.3"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konigio/konig-js.git"
+  },
+  "keywords": [
+    "RDF"
+  ],
+  "author": "Greg McFall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/konigio/konig-js/issues"
+  },
+  "homepage": "https://github.com/konigio/konig-js#readme"
+}

@@ -1,0 +1,6 @@
+/jsdoc/
+/lib/
+/node_modules/
+/.settings/
+/.test/
+/.project
